@@ -209,5 +209,5 @@
 
 - 微博：[@忆蓉之心](http://weibo.com/javatiku)
 - 公众号：[@Java面试那些事儿](http://mp.weixin.qq.com/s?__biz=MzIzMzgxOTQ5NA==&mid=100000032&idx=1&sn=aa14b052576fe2965004395778d2299d&chksm=68fe9d295f89143f816ec4c0edecf387d497c3daba55f252a4741ad1a359a02d1b7bea159faf#rd)
-- Twitter: [@yrzx404](https://twitter.com/javatiku)
+- Twitter: [@javatiku](https://twitter.com/javatiku)
 
