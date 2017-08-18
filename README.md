@@ -24,6 +24,8 @@
 
 - [项目列表](#项目列表)
 
+- [关于更多](#关于更多)
+
 ## 介绍
 
 为了帮助大家系统性的学习安全知识，遂诞生了此项目，旨在提供更多优秀的安全学习资源（如：书籍、项目等），欢迎star或fork。
@@ -198,4 +200,11 @@
 [hackedteam](https://github.com/hackedteam)
 
 未完，待续...
+
+## 关于更多
+
+你能在你喜欢的社交媒体上面找到作者。
+
+- 微博：[@忆蓉之心](http://weibo.com/javatiku)
+- 公众号：[@Java面试那些事儿](http://mp.weixin.qq.com/s?__biz=MzIzMzgxOTQ5NA==&mid=100000032&idx=1&sn=aa14b052576fe2965004395778d2299d&chksm=68fe9d295f89143f816ec4c0edecf387d497c3daba55f252a4741ad1a359a02d1b7bea159faf#rd)
 
