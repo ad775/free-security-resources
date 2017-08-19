@@ -197,10 +197,23 @@
 
 [metasploit-payloads](https://github.com/rapid7/metasploit-payloads)
 
+[meterpreter](https://github.com/rapid7/meterpreter)
+
 [方程式黑客组织源码](https://github.com/wudimahua/Firewall)
 
 [hackedteam](https://github.com/hackedteam)
 
+[开源webshell管理工具-Altman](https://github.com/keepwn/Altman)
+
+[各种webshell收集](https://github.com/tennc/webshell)
+
+[Empire](https://github.com/EmpireProject/Empire)
+
+[Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking)
+
+[ReflectiveDLLInjection内存加载技术](https://github.com/stephenfewer/ReflectiveDLLInjection)
+
+[PowerSploit](https://github.com/PowerShellMafia/PowerSploit)
 未完，待续...
 
 ## 关于更多
