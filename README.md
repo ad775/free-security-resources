@@ -1,4 +1,4 @@
-# 免费的安全学习资料列表
+# 黑暗之门
 
 ***一起来挑战一切“不可能”，静下心来深入研究...***
 
@@ -10,15 +10,19 @@
 
 - [常用网站](#常用网站)
 
-- [工具类](#工具类)
-
-- [论坛](#论坛)
+- [黑客峰会](#黑客峰会)
 
 - [安全媒体](#安全媒体)
 
 - [漏洞研究](#漏洞研究)
 
 - [应急响应平台](#应急响应平台)
+
+- [工具类](#工具类)
+
+- [博客](#博客)
+
+- [论坛](#论坛)
 
 - [书籍列表](#书籍列表)
 
@@ -38,35 +42,71 @@
 
 > 说明: 标题后缀 ~ 表示国外网站。
 
-### 工具类
+### 黑客峰会
 
-[Google ~](http://www.google.com/)
+[DEF CON® Hacking Conference ~](https://www.defcon.org/)
 
-[Wikipedia ~](https://www.wikipedia.org/)
+[Black Hat ~](http://www.blackhat.com/)
 
-[Wikileaks ~](https://wikileaks.org/)
+[Christchurch Hacker Conference ~](https://chcon.nz)
 
-[Shodan ~](https://www.shodan.io/)
+[Hack In The Box Security Conference ~](https://conference.hitb.org/)
 
-[Zoomeye](https://www.zoomeye.org/)
+[Security BSides ~](http://www.securitybsides.com/)
 
-[fofa](https://fofa.so/)
+[LayerOne ~](http://www.layerone.org/)
 
-[virscan](http://www.virscan.org/)
+[DeepSec IDSC ~](https://deepsec.net/)
 
-[sectoolmarket ~](http://www.sectoolmarket.com/price-and-feature-comparison-of-web-application-scanners-unified-list.html)
+[SkyDogCon ~](http://www.skydogcon.com/)
 
-未完，待续...
+[TROOPERS ~](https://www.troopers.de/)
 
-### 论坛
+[SECUINSIDE ~](http://secuinside.com)
 
-[吾爱破解](https://www.52pojie.cn/portal.php)
+[DefCamp ~](https://def.camp/)
 
-[看雪安全论坛](http://bbs.pediy.com/index.php)
+[BruCON ~](http://brucon.org)
 
-[90sec](https://forum.90sec.org/)
+[Infosecurity Europe ~](http://www.infosecurityeurope.com/)
 
-未完，待续...
+[nullcon - International Security Conference ~](http://nullcon.net/website/)
+
+[RSA Conference ~](https://www.rsaconference.com/)
+
+[Swiss Cyber Storm ~](https://www.swisscyberstorm.com/)
+
+[Virus Bulletin ~](https://www.virusbulletin.com/)
+
+[ekoparty security conference ~]( http://www.ekoparty.org)
+
+[44CON ~](https://44con.com/)
+
+[BalCCon2k17 ~](https://www.balccon.org)
+
+[FSec ~](https://fsec.foi.hr/)
+
+[SyScan360](https://www.syscan360.org/)
+
+[KCon 黑客大会](http://kcon.knownsec.com/)
+
+[GeekPwn(极棒)](http://2017.geekpwn.org/1024/zh/index.html)
+
+[THOTCON - Chicago's Hacking Conference ~](http://thotcon.org/)
+
+[CCC | Veranstaltungen des CCC ~](https://events.ccc.de/congress/)
+
+[DerbyCon 7.0 Legacy ~](https://www.derbycon.com/)
+
+[PhreakNIC21 ~](http://phreaknic.info/)
+
+[ShmooCon – Less Moose Than Ever ~](http://shmoocon.org/)
+
+[SummerCON.org ~](http://www.summercon.org/)
+
+[Hack.lu ~](https://hack.lu/)
+
+[CarolinaCon 13 ~](http://www.carolinacon.org/)
 
 ### 安全媒体
 
@@ -75,6 +115,22 @@
 [Hacking Articles ~](http://www.hackingarticles.in/)
 
 [pentest geek ~](https://www.pentestgeek.com/)
+
+[The Hacker News ~](http://thehackernews.com/)
+
+[Embedi ~](https://embedi.com/)
+
+[Offensive Security Online Training ~](https://www.offensive-security.com)
+
+[sensepost ~](https://sensepost.com/)
+
+[nVisium Blog ~](https://nvisium.com/blog/)
+
+[Shell is Only the Beginning ~](https://www.darkoperator.com/)
+
+[Cybersecurity Blog - Bishop Fox ~](https://www.bishopfox.com/blog/)
+
+[Blog - NotSoSecure ~](https://www.notsosecure.com/blog/)
 
 [Freebuf](http://www.freebuf.com/)
 
@@ -85,8 +141,6 @@
 [安全脉搏](https://www.secpulse.com/)
 
 [安全客](http://bobao.360.cn/)
-
-未完，待续...
 
 ### 漏洞研究
 
@@ -144,8 +198,6 @@
 
 [比戈大牛·漏洞报告平台](https://www.bigniu.com/bug/list)
 
-未完，待续...
-
 
 ### 应急响应平台
 
@@ -179,13 +231,200 @@
 
 [新浪安全应急响应中心](http://sec.sina.com.cn/)
 
-未完，待续...
+### 工具类
+
+[Google ~](http://www.google.com/)
+
+[Wikipedia ~](https://www.wikipedia.org/)
+
+[Wikileaks ~](https://wikileaks.org/)
+
+[Shodan ~](https://www.shodan.io/)
+
+[Zoomeye](https://www.zoomeye.org/)
+
+[fofa](https://fofa.so/)
+
+[virscan](http://www.virscan.org/)
+
+[sectoolmarket ~](http://www.sectoolmarket.com/price-and-feature-comparison-of-web-application-scanners-unified-list.html)
+
+[Have I been pwned? ~](https://haveibeenpwned.com/)
+
+[TinEye Reverse Image Search ~](https://www.tineye.com/)
+
+[DDecode ~](http://ddecode.com/phpdecoder/)
+
+[FuzzySecurity ~](http://www.fuzzysecurity.com/links.html)
+
+[CrackStation ~](https://crackstation.net/)
+
+[Objectif Sécurité - Accueil ~](http://www.objectif-securite.ch/)
+
+[BurpSuit ~](https://portswigger.net/)
+
+[wireshark ~](https://www.wireshark.org/)
+
+[w3af ~](http://w3af.org/)
+
+[hashcat ~](https://hashcat.net/hashcat/)
+
+[powershellempire ~](http://www.powershellempire.com/)
+
+[MSF ~](https://www.metasploit.com/)
+
+[Netsparker Web Application Security Scanner ~](https://www.netsparker.com/)
+
+### 博客
+
+[Strategic Cyber LLC ~](https://blog.cobaltstrike.com/)
+
+[Techorganic – Musings from the brainpan ~](https://blog.techorganic.com/)
+
+[FourFourFourFour ~](http://fourfourfourfour.co/)
+
+[NVISO LABS ~](https://blog.nviso.be/)
+
+[SecuriTeam ~](https://blogs.securiteam.com/)
+
+[rvrsh3ll’s Blog ~](http://www.rvrsh3ll.net/blog/)
+
+[PwnWiki.io ~](http://pwnwiki.io/#!index.md)
+
+[evandrix ~](http://evandrix.github.io/blog.html)
+
+[PentesterLab ~](https://www.pentesterlab.com/)
+
+[Security | BonkersAboutTech ~](https://www.bonkersabouttech.com/security)
+
+[News ≈ Packet Storm ~](https://packetstormsecurity.com/news)
+
+[c0dehouse ~](http://n0tty.github.io/)
+
+[Christopher Truncer's Website - A Hacker's Perspective ~](https://www.christophertruncer.com/)
+
+[Cyber Syndicates · Red Team | Hacking | Infosec | TTPs ~](https://cybersyndicates.com/)
+
+[Blog | Portcullis Labs ~](https://labs.portcullis.co.uk/blog/)
+
+[InfoSec Resources - IT Security Training & Resources by InfoSec Institute ~](http://resources.infosecinstitute.com/)
+
+[Thoughts on Security ~](https://www.scriptjunkie.us/)
+
+[rebootuser ~](https://www.rebootuser.com/)
+
+[Darknet - The Darkside - Ethical Hacking, Penetration Testing & Computer Security ~](https://www.darknet.org.uk/)
+
+[WebstersProdigy | Colored Hat Stuff. New post about once a month ~](https://webstersprodigy.net/)
+
+[Learn Ethical Hacking and Penetration Testing Online ~](https://www.hackingloops.com/)
+
+[Penetration Testing Lab | Articles  from the Pentesting Field ~](https://pentestlab.wordpress.com)
+
+[parsiya ~](https://parsiya.net/archive/)
+
+[Welcome to WS-Attacks - WS-Attacks ~](http://www.ws-attacks.org/Welcome_to_WS-Attacks)
+
+[harmj0y – security at the misfortune of others ~](http://www.harmj0y.net/blog/)
+
+[enigma0x3 | Red Teamer and Security Addict ~](https://enigma0x3.net/)
+
+[bluescreenofjeff.com ~](https://bluescreenofjeff.com/)
+
+[leonjza ~](https://leonjza.github.io/)
+
+[Core dump overflow ~](https://chousensha.github.io/)
+
+[Stealthsploit ~](https://stealthsploit.com/)
+
+[Rasta Mouse](http://rastamouse.me/)
+
+[Adventures In Information Security ~](https://blog.zsec.uk/)
+
+[Tevora Threat ~](http://threat.tevora.com/)
+
+[NETMUX | Network Cyber Security ~](http://www.netmux.com/)
+
+[floyd's | IT Security ~](http://www.floyd.ch/)
+
+[OJ's Perspective ~](http://buffered.io/)
+
+[EK ~](https://jivoi.github.io/)
+
+[SECURED.ORG – MALWARE + FASHION = UNICORN ~](http://amanda.secured.org/)
+
+[Benjamin Cane ~](http://bencane.com/)
+
+[sixdub ~](http://www.sixdub.net/)
+
+[Darknet - The Darkside - Ethical Hacking, Penetration Testing & Computer Security ~](https://www.darknet.org.uk/)
+
+[Welcome to MWR Labs - Cyber security research and development ~](https://labs.mwrinfosecurity.com/)
+
+[kenaro | Ingo Karsteins Blog: SharePoint, PowerShell, Enterprise Web Development ~](https://blog.kenaro.com/)
+
+[Diary of Michael Daw ~](http://michaeldaw.org/)
+
+[Penetration Testing Lab | Articles  from the Pentesting Field ~](https://pentestlab.blog/)
+
+[enigma0x3 | Red Teamer and Security Addict ~](https://enigma0x3.net/)
+
+[wald0.com ~](https://wald0.com/)
+
+[g0tmi1k ~](https://blog.g0tmi1k.com/)
+
+[Didier Stevens blog ~)](https://blog.didierstevens.com/)
+
+[Explore Security | IT security tools, techniques and commentary ~](http://www.exploresecurity.com/)
+
+[GracefulSecurity — Articles by @HollyGraceful ~](https://www.gracefulsecurity.com/)
+
+[pentest-n00b – Hack To Live – Live To Hack ~](https://pentestn00b.wordpress.com/)
+
+[Active Directory Security ~](https://adsecurity.org/)
+
+[Sogeti ESEC Pentest ~](http://esec-pentest.sogeti.com/)
+
+[Share and Discover Knowledge on LinkedIn SlideShare ~](http://www.slideshare.net/)
+
+[Invoke-IR | PowerShell Digital Forensics and Incident Response ~](http://www.invoke-ir.com/)
+
+[Lab of a Penetration Tester ~](http://www.labofapenetrationtester.com/)
+
+[subTee ~](http://subt0x10.blogspot.hk/)
+
+[KitPloit - PenTest Tools for your Security Arsenal ~](http://www.kitploit.com/)
+
+[trapkit blog ~](http://tk-blog.blogspot.hk/)
+
+[Information Technology Security Consultants | TrustedSec ~](https://www.trustedsec.com/)
+
+[Room362 · Rob 'mubix' Fuller ~](https://room362.com/)
+
+[..:: Corelan Team | Peter Van Eeckhoutte (corelanc0d3r) ::.. ~](https://www.corelan.be/)
+
+[The 2016 SANS Holiday Hack Challenge ~](https://holidayhackchallenge.com/)
+
+[seebug](https://paper.seebug.org/)
+
+[安全客](http://bobao.360.cn/)
+
+[t00ls](https://www.t00ls.net/)
+
+[evi1cg](https://evi1cg.me/)
+
+### 论坛
+
+[吾爱破解](https://www.52pojie.cn/portal.php)
+
+[看雪安全论坛](http://bbs.pediy.com/index.php)
+
+[90sec](https://forum.90sec.org/)
+
 
 ## 书籍列表
 
 [知道创宇技能表](http://blog.knownsec.com/Knownsec_RD_Checklist/v3.0.html)
-
-未完，待续...
 
 ## 项目列表
 
@@ -214,13 +453,9 @@
 [ReflectiveDLLInjection内存加载技术](https://github.com/stephenfewer/ReflectiveDLLInjection)
 
 [PowerSploit](https://github.com/PowerShellMafia/PowerSploit)
-未完，待续...
 
-## 关于更多
+## 贡献者
 
-你能在你喜欢的社交媒体上面找到作者。
+**排名不分先后。**
 
-- 微博：[@忆蓉之心](http://weibo.com/javatiku)
-- 公众号：[@Java面试那些事儿](http://mp.weixin.qq.com/s?__biz=MzIzMzgxOTQ5NA==&mid=100000032&idx=1&sn=aa14b052576fe2965004395778d2299d&chksm=68fe9d295f89143f816ec4c0edecf387d497c3daba55f252a4741ad1a359a02d1b7bea159faf#rd)
-- Twitter: [@javatiku](https://twitter.com/javatiku)
-
+[yrzx404](https://github.com/yrzx404) 、[znlover](https://github.com/bluelithium) 、[myh0st](https://github.com/myh0st)
